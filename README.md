@@ -1,6 +1,6 @@
 # In Defense of LSTMs for Addressing Multiple Instance Learning Problems
 >
-Kaili Wang, Jose Oramas, Tinne Tuytelaars
+[Kaili Wang](http://homes.esat.kuleuven.be/~kwang/), [Jose Oramas](http://homes.esat.kuleuven.be/~joramas/), [Tinne Tuytelaars](https://homes.esat.kuleuven.be/~tuytelaa/)
 
 >  
 Oral paper @ ACCV 2020.
