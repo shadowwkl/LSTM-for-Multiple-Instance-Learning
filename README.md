@@ -13,3 +13,8 @@ LSTMs have a proven track record in analyzing sequential data. But what about un
 >
 ## Implementation
 To be organized and uploaded.
+>
+The code is based on Pytorch 0.4.1, Python 2. The implementation considers [Attention-based Deep Multiple Instance Learning](https://github.com/AMLab-Amsterdam/AttentionDeepMIL).
+>
+### Usage
+We provide the training and testing code for the difficult experiment *Outlier Detection*. The basic setting is 
