@@ -17,4 +17,4 @@ To be organized and uploaded.
 The code is based on Pytorch 0.4.1, Python 2. The implementation considers [Attention-based Deep Multiple Instance Learning](https://github.com/AMLab-Amsterdam/AttentionDeepMIL).
 >
 ### Usage
-We provide the training and testing code for the difficult experiment *Outlier Detection*. The basic setting is 
+We provide the training and testing code for the difficult experiment *Outlier Detection*. We use 10,000 sets to train the model and 2,000 sets to test. The setcardinality is 6 with 1 standard deviation.
